@@ -34,7 +34,7 @@
         },
         "django": {
             "hashes": [],
-            "version": "==4.1.1"
+            "version": "==5.1"
         },
         "flake8": {
             "hashes": [
